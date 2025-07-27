@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/recruitx_user_db
+    url: jdbc:mysql://localhost:3306/userdb
     username: root
-    password: your_password
+    password: Atharva03@#
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
